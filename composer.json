@@ -3,7 +3,7 @@
     "description": "Flysystem adapter for Gaufrette",
     "type": "metapackage",
     "require": {
-        "knplabs/gaufrette": "^0.3",
+        "knplabs/gaufrette": "~0.3",
         "league/flysystem": "^1.0"
     },
     "authors": [
